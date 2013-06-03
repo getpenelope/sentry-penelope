@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 """
 sentry-penelope
-=============
+===============
 
 An extension for Sentry which integrates with penelope. Specifically, it allows you to easily create
 issues from events within Sentry.

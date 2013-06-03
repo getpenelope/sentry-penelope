@@ -57,7 +57,7 @@ class PenelopePlugin(IssuePlugin):
         }
 
     def is_configured(self, request, project, **kwargs):
-        return bool(self.get_option('trac_base', project))
+        return bool(self.get_option('penelope', project))
 
     def get_new_issue_title(self, **kwargs):
         return 'Create Penelope Issue'

@@ -23,7 +23,7 @@ install_requires = [
 
 setup(
     name='sentry-penelope',
-    version='0.1',
+    version='0.1.1',
     author='Andrew Mleczko',
     author_email='penelopedev@redturtle.it',
     url='http://github.com/getpenelope/sentry-penelope',
